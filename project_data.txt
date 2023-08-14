@@ -1,0 +1,3 @@
+Motu,04-05-2005,Male,Raju,Rani,Kannada,Indian,Hindu,Bangalore,12105,X,A,PCMC,80,90,70,60,50,350,70.0
+Patlu,24-06-2004,Male,Raju,Rani,Kannada,Indian,Hindu,Bangalore,15,XII,A,PCMC,80,85,86,89,90,430,86.0
+Patlu,26-05-2003,Male,Raju,Rani,Kannada,Indian,Hindu,Darwad,14,XII,A,PCMC,80,82,78,80,80,400,80.0
